@@ -1,5 +1,12 @@
 # QWZ Chern-Insulator Hamiltonian (Reference Form)
 
+
+<!-- HERO_ANIMATION:BEGIN -->
+![QWZ Chern insulator Hamiltonian](images/qwz_chern_insulator.gif)
+
+_Hero animation: **QWZ Chern insulator Hamiltonian**. [Download high-resolution MP4](images/qwz_chern_insulator.mp4)._
+<!-- HERO_ANIMATION:END -->
+
 **ID:** `eq-paper1-qwz-hamiltonian`  
 **Tier:** derived  
 **Score:** 94  
